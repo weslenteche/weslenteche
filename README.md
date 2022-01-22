@@ -6,7 +6,7 @@
 **About me:**
 
 - 🚀 Software Engineer / Full Stack Developer
-- 💼 I’m currently working on [Basis Information Technology](https://www.basis.com.br/)
+- 💼 I’m currently working on [PicPay](https://www.picpay.com/)
 - 🎓 Graduated in Information Systems with specialization in web systems development
 - 🇧🇷 Live in Brazil
 
@@ -52,6 +52,9 @@
 <img height="25" src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/SonarQube-4E9BCD.svg?&style=for-the-badge&logo=SonarQube&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/Sentry-FB4226.svg?&style=for-the-badge&logo=Sentry&logoColor=white"></img>
+
+<img height="25" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white"></img>
 
 <img height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img height="25" src="https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"></img> 
