@@ -6,7 +6,7 @@
 **About me:**
 
 - 🚀 Software Engineer / Full Stack Developer
-- 💼 I’m currently working on [PicPay](https://www.picpay.com/)
+- 💼 I’m currently working on [NuBank](https://nubank.com.br/)
 - 🎓 Graduated in Information Systems with specialization in web systems development
 - 🇧🇷 Live in Brazil
 
